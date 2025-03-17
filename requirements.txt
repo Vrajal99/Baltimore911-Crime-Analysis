@@ -1,0 +1,9 @@
+pandas
+numpy
+ydata-profiling
+matplotlib
+seaborn
+plotly
+dash
+geopandas 
+dash-bootstrap-components
